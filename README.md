@@ -21,4 +21,4 @@ To install Home Assistant Supervised with the default settings, run the followin
 
 ```bash
 
-sudo bash -c "$(curl -o- https://raw.githubusercontent.com/efthymios-tserepas/jellyfin/main/jellyfin.sh)"
+sudo bash -c "$(curl -o- https://raw.githubusercontent.com/etserepas/jellyfin/main/jellyfin.sh)"
